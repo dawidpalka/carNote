@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car Note</string>
+    <string name="date">Date</string>
+    <string name="mileage">Mileage</string>
+    <string name="liters">Liters</string>
+    <string name="cost">Cost</string>
+    <string name="confirm">Confirm</string>
+</resources>
