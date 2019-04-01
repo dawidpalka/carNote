@@ -5,4 +5,5 @@
     <string name="liters">Liters</string>
     <string name="cost">Cost</string>
     <string name="confirm">Confirm</string>
+    <string name="go_to_tank_form_button">Go to tank</string>
 </resources>
